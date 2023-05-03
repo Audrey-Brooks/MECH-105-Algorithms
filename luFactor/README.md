@@ -6,3 +6,5 @@ A = coefficient matrix
 L = lower triangular matrix
 U = upper triangular matrix
 P = the permutation matrix
+# Example of Call Code:
+[L, U, P] = luFactor(A)
